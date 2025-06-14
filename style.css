@@ -10,6 +10,7 @@ td {
 
 td.subject {
 	background-color: #163341;
+	text-decoration: bold;
 }
 
 a {
