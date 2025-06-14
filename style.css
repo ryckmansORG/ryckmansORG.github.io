@@ -4,13 +4,10 @@ body {
 	font-size: 18px;
 }
 
-td {
-	padding: 10px;
-}
-
 td.subject {
 	background-color: #163341;
 	text-decoration: bold;
+	text-color: white;
 }
 
 a {
