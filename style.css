@@ -6,8 +6,10 @@ body {
 
 td.subject {
 	background-color: #163341;
-	text-decoration: bold;
-	text-color: white;
+	font-weight: bold;
+	color: white;
+	vertical-align: top;
+	width: 20%;
 }
 
 a {
