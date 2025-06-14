@@ -39,3 +39,7 @@ table {
 	width: 100%;
 	border-collapse: collapse;
 }
+
+td.gimp {
+	background-color: white;
+}
