@@ -1,25 +1,15 @@
 body {
 	font-family: 'Verdana';
 	background-color: #091a23;
-	font-size: 16px;
+	font-size: 18px;
 }
 
 td {
 	padding: 10px;
-	vertical-align: middle;
-	text-align: center;
 }
 
-td.text-left {
-	text-align: left;
-}
-
-td.text-right {
-	text-align: right;
-}
-
-td.github {
-	background-color: white;
+td.subject {
+	background-color: #163341;
 }
 
 a {
@@ -32,15 +22,7 @@ a:hover {
 	text-decoration: underline;
 }
 
-img {
-	height: 150px;
-}
-
 table {
 	width: 100%;
 	border-collapse: collapse;
-}
-
-td.gimp {
-	background-color: white;
 }
