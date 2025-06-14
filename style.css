@@ -1,3 +1,18 @@
 body {
-    font-family: 'Verdana';
+	font-family: 'Verdana';
+	background-color: #0d1117;
+	font-size: 14px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td.github {
+	background-color: white;
+}
+
+a {
+	color: white;
 }
