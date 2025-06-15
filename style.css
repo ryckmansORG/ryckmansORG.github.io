@@ -25,3 +25,7 @@ a:hover {
 table {
 	width: 100%;
 }
+
+td {
+	padding: 8px;
+}
